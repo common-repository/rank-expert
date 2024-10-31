@@ -1,0 +1,16 @@
+{
+    "name": "wepupil/wp-ranker",
+    "description": "Ranker",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "WePupil"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{"Rexpinc\\": "./Rexpinc"}
+    }
+}
